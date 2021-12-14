@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "toDoList",
-    "slug": "toDoList",
+    "name": "mirka-swd4tn021",
+    "slug": "mirka-swd4tn021",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
